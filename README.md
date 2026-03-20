@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
