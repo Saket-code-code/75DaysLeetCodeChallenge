@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
