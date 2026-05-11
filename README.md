@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
