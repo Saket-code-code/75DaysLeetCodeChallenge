@@ -1,69 +1,23 @@
-	import java.util.Stack;
-
-	 
-
-	public class Solution {
-
-	    public int evalRPN(String[] tokens) {
-
-	        Stack<Integer> stack = new Stack<>();
-
-	 
-
-	        for (String token : tokens) {
-
-	            if (token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/")) {
-
-	                int b = stack.pop();
-
-	                int a = stack.pop();
-
-	                
-
-	                switch (token) {
-
-	                    case "+":
-
-	                        stack.push(a + b);
-
-	                        break;
-
-	                    case "-":
-
-	                        stack.push(a - b);
-
-	                        break;
-
-	                    case "*":
-
-	                        stack.push(a * b);
-
-	                        break;
-
-	                    case "/":
-
-	                        double division = (double) a / b;
-
-	                        stack.push(division < 0 ? (int) Math.ceil(division) : (int) Math.floor(division));
-
-	                        break;
-
-	                }
-
-	            } else {
-
-	                stack.push(Integer.parseInt(token));
-
-	            }
-
-	        }
-
-	        
-
-	        return stack.pop();
-
-	    }
-
-	}
-
-	 
+class Solution {
+    public int evalRPN(String[] tokens) {
+        Stack<Integer> stack = new Stack<>();
+        for (String c : tokens) {
+            if (c.equals("+")) {
+                stack.push(stack.pop() + stack.pop());
+            } else if (c.equals("-")) {
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b - a);
+            } else if (c.equals("*")) {
+                stack.push(stack.pop() * stack.pop());
+            } else if (c.equals("/")) {
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b / a);
+            } else {
+                stack.push(Integer.parseInt(c));
+            }
+        }
+        return stack.pop();
+    }
+}
