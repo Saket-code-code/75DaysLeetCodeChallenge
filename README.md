@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
