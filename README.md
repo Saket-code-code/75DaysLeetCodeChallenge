@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
+| [0567-permutation-in-string](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Saket-code-code/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Stack
